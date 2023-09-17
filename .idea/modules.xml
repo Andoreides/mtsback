@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+<<<<<<< HEAD
       <module fileurl="file://$PROJECT_DIR$/.idea/mtsserver.iml" filepath="$PROJECT_DIR$/.idea/mtsserver.iml" />
+=======
+      <module fileurl="file://$PROJECT_DIR$/.idea/my-front.iml" filepath="$PROJECT_DIR$/.idea/my-front.iml" />
+>>>>>>> a7354a52afc170afe5dc4c1f7712444dcbec7051
     </modules>
   </component>
 </project>
